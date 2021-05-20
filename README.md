@@ -1,4 +1,4 @@
-<p align='center'> Hello, I am Pradnesh.</p>
+<p align='center'> Hello, Myself Pradnesh. 👋</p>
 <p align='center'> I am an undergraduate sophomore, pursuing Computer Science and Engineering from <a href="https://www.iitg.ac.in/">IIT Guwahati</a></p>
 
 <a href='https://github.com/PradKalkar'>
