@@ -1,5 +1,5 @@
 <p align='center'> Hello, Myself Pradnesh. 👋</p>
-<p align='center'> I am an undergraduate pre-final year student, pursuing Computer Science and Engineering from <a href="https://www.iitg.ac.in/">IIT Guwahati</a></p>
+<p align='center'> I am an undergraduate final year student, pursuing Computer Science and Engineering from <a href="https://www.iitg.ac.in/">IIT Guwahati</a></p>
 
 <a href='https://github.com/PradKalkar'>
   <p align='center'>
